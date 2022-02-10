@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=RGB1-1
+Removed Pin From Net: NetName=NetR6_2 Pin=RGB1-2
+Removed Pin From Net: NetName=NetR4_2 Pin=RGB1-3
+Removed Pin From Net: NetName=Net9V battery_2 Pin=RGB1-4
+Removed Pin From Net: NetName=NetR4_2 Pin=RGB2-1
+Removed Pin From Net: NetName=NetR6_2 Pin=RGB2-2
+Removed Pin From Net: NetName=NetR2_2 Pin=RGB2-3
+Removed Pin From Net: NetName=Net9V battery_2 Pin=RGB2-4
+Removed Pin From Net: NetName=NetR6_2 Pin=RGB3-1
+Removed Pin From Net: NetName=NetR4_2 Pin=RGB3-2
+Removed Pin From Net: NetName=NetR2_2 Pin=RGB3-3
+Removed Pin From Net: NetName=Net9V battery_2 Pin=RGB3-4
+Removed Pin From Net: NetName=NetR2_2 Pin=RGB4-1
+Removed Pin From Net: NetName=NetR4_2 Pin=RGB4-2
+Removed Pin From Net: NetName=NetR6_2 Pin=RGB4-3
+Removed Pin From Net: NetName=Net9V battery_2 Pin=RGB4-4
+Removed Pin From Net: NetName=NetR6_2 Pin=RGB5-1
+Removed Pin From Net: NetName=NetR2_2 Pin=RGB5-2
+Removed Pin From Net: NetName=NetR4_2 Pin=RGB5-3
+Removed Pin From Net: NetName=Net9V battery_2 Pin=RGB5-4
+Removed Pin From Net: NetName=NetR4_2 Pin=RGB6-1
+Removed Pin From Net: NetName=NetR2_2 Pin=RGB6-2
+Removed Pin From Net: NetName=NetR6_2 Pin=RGB6-3
+Removed Pin From Net: NetName=Net9V battery_2 Pin=RGB6-4
+Change Component Footprint: Designator=RGB1 Old Footprint=L-154A4SUREQBFZGEC New Footprint=RGB CA
+Change Component Footprint: Designator=RGB2 Old Footprint=L-154A4SUREQBFZGEC New Footprint=RGB CA
+Change Component Footprint: Designator=RGB3 Old Footprint=L-154A4SUREQBFZGEC New Footprint=RGB CA
+Change Component Footprint: Designator=RGB4 Old Footprint=L-154A4SUREQBFZGEC New Footprint=RGB CA
+Change Component Footprint: Designator=RGB5 Old Footprint=L-154A4SUREQBFZGEC New Footprint=RGB CA
+Change Component Footprint: Designator=RGB6 Old Footprint=L-154A4SUREQBFZGEC New Footprint=RGB CA
+Change component parameters: Designator = "C3" ("C3"); Footprint = "RAD-0.3"; UniqueID = "\SZXUXBFO" ("\SZXUXBFO")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ".01uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RGB1" ("RGB1"); Footprint = "L-154A4SUREQBFZGEC"; UniqueID = "\VWVLKNJG" ("\VWVLKNJG")
+Change component parameters: Designator = "RGB2" ("RGB2"); Footprint = "L-154A4SUREQBFZGEC"; UniqueID = "\CIHVFZAE" ("\CIHVFZAE")
+Change component parameters: Designator = "RGB3" ("RGB3"); Footprint = "L-154A4SUREQBFZGEC"; UniqueID = "\HHRREYVN" ("\HHRREYVN")
+Change component parameters: Designator = "RGB4" ("RGB4"); Footprint = "L-154A4SUREQBFZGEC"; UniqueID = "\ODXMCOER" ("\ODXMCOER")
+Change component parameters: Designator = "RGB5" ("RGB5"); Footprint = "L-154A4SUREQBFZGEC"; UniqueID = "\TTLLFTDF" ("\TTLLFTDF")
+Change component parameters: Designator = "RGB6" ("RGB6"); Footprint = "L-154A4SUREQBFZGEC"; UniqueID = "\JYCISMKV" ("\JYCISMKV")
+Added Pin To Net: NetName=Net9V battery_2 Pin=RGB1-a
+Added Pin To Net: NetName=NetR6_2 Pin=RGB1-b
+Added Pin To Net: NetName=NetR4_2 Pin=RGB1-g
+Added Pin To Net: NetName=NetR2_2 Pin=RGB1-r
+Added Pin To Net: NetName=Net9V battery_2 Pin=RGB2-a
+Added Pin To Net: NetName=NetR4_2 Pin=RGB2-b
+Added Pin To Net: NetName=NetR6_2 Pin=RGB2-g
+Added Pin To Net: NetName=NetR2_2 Pin=RGB2-r
+Added Pin To Net: NetName=Net9V battery_2 Pin=RGB3-a
+Added Pin To Net: NetName=NetR2_2 Pin=RGB3-b
+Added Pin To Net: NetName=NetR6_2 Pin=RGB3-g
+Added Pin To Net: NetName=NetR4_2 Pin=RGB3-r
+Added Pin To Net: NetName=Net9V battery_2 Pin=RGB4-a
+Added Pin To Net: NetName=NetR6_2 Pin=RGB4-b
+Added Pin To Net: NetName=NetR2_2 Pin=RGB4-g
+Added Pin To Net: NetName=NetR4_2 Pin=RGB4-r
+Added Pin To Net: NetName=Net9V battery_2 Pin=RGB5-a
+Added Pin To Net: NetName=NetR2_2 Pin=RGB5-b
+Added Pin To Net: NetName=NetR4_2 Pin=RGB5-g
+Added Pin To Net: NetName=NetR6_2 Pin=RGB5-r
+Added Pin To Net: NetName=Net9V battery_2 Pin=RGB6-a
+Added Pin To Net: NetName=NetR4_2 Pin=RGB6-b
+Added Pin To Net: NetName=NetR2_2 Pin=RGB6-g
+Added Pin To Net: NetName=NetR6_2 Pin=RGB6-r
+Added Room: Name=rgb_schem
